@@ -29,7 +29,7 @@ div {
     justify-content: center;
     
     background-color: greenyellow;
-    margin: 2px 2px 5px 2px;
+    margin: 2px 2px 2px 2px;
     border-style: double;
     border-color: darkslateblue;
     text-align: center;
@@ -40,14 +40,12 @@ div {
     text-align: center;
 }
 
-.container p   {
-       font-family: 'Times New Roman', Times, serif; 
-       text-align: left;
-       font-size: 15px;
-       padding: 10%;
-    }
 
-
+#MainInfo {
+    height:80%; 
+    font-size: 10px;
+    text-align: left
+}
 
 
 
