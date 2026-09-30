@@ -1,0 +1,22 @@
+h1  {
+        font-family: "serif", sans-serif;
+        text-align: left;
+    }
+
+body {
+       
+        background-color:darkolivegreen;
+    }
+
+div {
+        background-color: gainsboro;
+        border-style: groove;
+        border-width: 14px;
+        margin: 20px 20px 20px 20px;
+    }
+
+p   {
+       font-family: 'Times New Roman', Times, serif; 
+       text-align: center;
+       font-size: 21px;
+    }
